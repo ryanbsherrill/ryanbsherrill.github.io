@@ -1,52 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Ryan Sherrill",
+    "label": "Software Engineer",
+    "picture": "https://ryanbsherrill.github.io/images/ryan_photo.png",
+    "email": "ryanbsherrill@gmail.com",
+    "phone": "555-555-5555",
+    "website": "https://ryanbsherrill.github.io/",
+    "summary": "I'm a Software Engineer and Full Stack Web Developer. Seeking to assist those whose goal is to create a better world for all living things via science and technology.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "20011",
+      "city": "Washington",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "D.C."
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ryanbsherrill",
+        "url": "http://github.com/ryanbsherrill"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ryanbsherrill",
+        "url": "http://linkedin.com/in/ryanbsherrill"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "computer science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "web development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     },
@@ -61,12 +59,15 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JavaScript",
+        "NodeJS",
+        "Express",
+        "ReactJS",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "SASS/SCSS",
+        "RESTful APIs"
       ]
     },
     {
@@ -74,19 +75,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Terminal",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VS Code"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Montgomery College, Takoma Park, MD",
+      "area": "Computer Science (expected, 2018)",
+      "studyType": "A.A.S.",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
