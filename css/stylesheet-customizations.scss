@@ -14,6 +14,7 @@ body {
 // Customize the menubar color
 .ui.menu {
   background: #282c34;
+  border-color: #abb2bf;
 }
 
 .ui.card {
@@ -35,4 +36,9 @@ body {
 // Customize the home page icon colors
 .icon-color {
   color: #9599a1;
+}
+
+.button {
+  color: #abb2bf;
+  border-color: #abb2bf;
 }
