@@ -14,7 +14,7 @@ body {
 // Customize the menubar color
 .ui.menu {
   background: #282c34;
-  border-color: #abb2bf !important;
+  border: .5px solid #abb2bf !important;
 }
 
 .ui.card {
@@ -40,5 +40,5 @@ body {
 
 .ui.basic.button {
   color: #abb2bf !important;
-  border-color: #abb2bf !important;
+  border: .5px solid #abb2bf !important;
 }
