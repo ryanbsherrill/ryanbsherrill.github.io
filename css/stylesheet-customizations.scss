@@ -18,11 +18,10 @@ body {
 
 .ui.card {
   background: #333842;
-  color: #abb2bf;
 }
 
-.ui.card>.content {
-  color: white;
+.ui.card>.content>.description {
+  color: #abb2bf;
 }
 
 // Customize the home page icon colors
